@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing by bachelor of engineering in Sri Venkateshwara college of engineering<br>I will be uploading my you tube videos
+I am currently pursuing my bachelor of engineering in Sri Venkateshwara college of engineering<br>I will be uploading my you tube videos
 
 
 ## 🌐 Socials:
