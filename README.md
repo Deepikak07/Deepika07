@@ -1,6 +1,8 @@
 # Hi there, I'm Deepika
 # 💫 About Me:
-I am currently pursuing my bachelor of engineering in Sri Venkateshwara college of engineering<br>I will be uploading my you tube videos
+**Career Objective**
+
+A motivated Computer Science and Data Science graduate from Sri Venkateshwara College of Engineering, Bangalore, with a CGPA of 9.23. Possess technical knowledge of Python, Java, SQL, Data Structures, Machine Learning, and Data Analytics, with a strong interest in software development and problem-solving. Eager to apply technical skills, learn new technologies, and contribute to organizational growth.
 
 
 ## 🌐 Socials:
